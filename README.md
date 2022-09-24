@@ -9,3 +9,6 @@ welcome to my first project! A discord bot!
 - A discord bot token. https://discord.com/developers/applications
 
 # Files Coming Soon!
+
+
+Code Language: ![java](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&color=yellow&logo=JavaScript&logoColor=black) 
