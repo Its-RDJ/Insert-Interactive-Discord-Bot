@@ -1,6 +1,6 @@
 # Discord-Bot
 
-welcome to my first project! A discord bot!
+Welcome to my first project! A discord bot!
 
 # requirements
 
