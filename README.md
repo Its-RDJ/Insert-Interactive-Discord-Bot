@@ -11,4 +11,4 @@ welcome to my first project! A discord bot!
 # Files Coming Soon!
 
 
-Code Language: ![java](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&color=yellow&logo=JavaScript&logoColor=black) 
+![java](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&color=yellow&logo=JavaScript&logoColor=black) 
