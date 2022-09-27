@@ -26,7 +26,7 @@ Welcome to my first project! A discord bot!
 
 # Issues
 
-If there's any bugs orerror. Please open a Issue via github,
+If there's any bugs orerror. Please open a Issue via github.
 
 
 
