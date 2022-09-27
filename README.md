@@ -5,8 +5,9 @@ Welcome to my first project! A discord bot!
 # requirements
 
 - Node.js. https://nodejs.org/en/download/
-- Discord.js V13. npm i discord.js-v13
+- Discord.js V13: npm i discord.js-v13
 - A discord bot token. https://discord.com/developers/applications
+- wttr: npm i wttr
 
 
 # Install
@@ -17,6 +18,7 @@ Welcome to my first project! A discord bot!
 - Open Visual studio code
 - Open the terminal
 - type: npm i discord.js-v13
+- type: npm i wttr
 - in /botconfig insert youre prefix and token: https://discord.com/developers/applications
 - open the terminal
 - type: node .
