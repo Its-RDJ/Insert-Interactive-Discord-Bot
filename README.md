@@ -13,7 +13,7 @@ Welcome to my first project! A discord bot!
 # Install
 
 - Download the package
-- Drag the files into a folder on youre PC
+- Drag the files into a folder on your PC
 - Download Node.js https://nodejs.org/en/download/
 - Open Visual studio code
 - Open the terminal
