@@ -82,7 +82,7 @@ client.on("message", (message) => {
   if (message.content.includes('discord.gg/') || message.content.includes('discordapp.com/invite/')) { //if it contains an invite link
     if (!message.member.permissions.has("KICK_MEMBERS")) {
       message.delete() //delete the message
-        .then(message.channel.send("Geen links sturen in deze discord"));
+        .then(message.channel.send("Dont send invite links"));
     }
   }
 
