@@ -1,6 +1,6 @@
 # Insert Interactive Discord-Bot
 
-Welcome to my first project! A discord bot!
+Welcome to our first project! A discord bot!
 
 # requirements
 
