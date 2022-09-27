@@ -1,4 +1,4 @@
-# Discord-Bot
+# Insert Interactive Discord-Bot
 
 Welcome to my first project! A discord bot!
 
