@@ -1,0 +1,12 @@
+{
+  "name": "fdjbot",
+  "version": "1.0.0",
+  "description": "Made by faytje https://github.com/Faytje",
+  "main": "index.js",
+
+  "author": "Faye",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^1.33.1"
+  }
+}
