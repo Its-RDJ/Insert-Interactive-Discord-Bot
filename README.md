@@ -15,7 +15,8 @@ Welcome to my first project! A discord bot!
 - Drag the files into a folder on youre PC
 - Download Node.js https://nodejs.org/en/download/
 - Open Visual studio code
-- type this in the terminal: npm i discord.js-v13
+- Open the terminal
+- type: npm i discord.js-v13
 - in /botconfig insert youre prefix and token: https://discord.com/developers/applications
 - open the terminal
 - type: node .
